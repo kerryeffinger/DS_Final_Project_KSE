@@ -1,0 +1,27 @@
+CREATE DATABASE layoffs;
+USE layoffs;
+
+CREATE TABLE layoffsfyi(
+	Company varchar(30),
+Location varchar(20),
+Number_laid_off	int,
+Layoff_date DATE,
+Percent	int,
+Industry varchar(20),
+Stage varchar(15),
+Money_raised_mm	int,
+Date_reported DATE,
+PRIMARY KEY(Company, Layoff_date)
+);
+
+USE layoffs;
+
+CREATE USER 'layoff_user'@'localhost' IDENTIFIED by 'letmein';
+GRANT ALL ON layoffs.* to 'layoff_user'@'localhost' with grant option;
+
+TRUNCATE TABLE layoffsfyi;
+ 
+
+USE layoffs;
+SELECT *
+FROM layoffsfyi;
