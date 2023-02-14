@@ -16,7 +16,7 @@ PRIMARY KEY(Company, Layoff_date)
 
 USE layoffs;
 
-CREATE USER 'layoff_user'@'localhost' IDENTIFIED by 'letmein';
+CREATE USER 'layoff_user'@'localhost' IDENTIFIED by 'password';
 GRANT ALL ON layoffs.* to 'layoff_user'@'localhost' with grant option;
 
 TRUNCATE TABLE layoffsfyi;
