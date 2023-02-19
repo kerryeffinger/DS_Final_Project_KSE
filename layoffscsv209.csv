@@ -1,0 +1,220 @@
+Company,Location,Number_laid_off,Layoff_date,Percent,Industry,Stage,Money_raised_mm,Date_reported
+Salesforce,SF Bay Area,8000,1/4/23,10,Sales,IPO,65,1/4/23
+Vimeo,New York City,,1/4/23,11,Consumer,IPO,450,1/4/23
+Amazon,Seattle,8000,1/4/23,2,Retail,IPO,108,1/4/23
+Pegasystems,Boston,245,1/3/23,4,HR,IPO,,1/4/23
+Stitch Fix,SF Bay Area,,1/5/23,20,Retail,IPO,79,1/5/23
+Compass,New York City,,1/5/23,,Real Estate,IPO,1600,1/5/23
+Genesis,New York City,60,1/5/23,30,Crypto,Series A,,1/5/23
+SoundHound,SF Bay Area,200,1/5/23,50,Other,IPO,326,1/5/23
+Personetics,New York City,30,1/5/23,8,Support,Private Equity,178,1/5/23
+Socure,Reno,104,1/5/23,19,Finance,Series E,646,1/5/23
+TCR2,Boston,,1/5/23,40,Healthcare,IPO,173,1/5/23
+Wyre,SF Bay Area,,1/4/23,100,Crypto,Unknown,29,1/5/23
+Kaltura,New York City,75,1/4/23,11,Media,IPO,166,1/5/23
+Uniphore,SF Bay Area,76,1/3/23,10,Support,Series E,620,1/5/23
+Amdocs,St. Louis,700,1/2/23,3,Support,IPO,,1/5/23
+Mojo Vision,SF Bay Area,,1/6/23,75,Hardware,Series B,204,1/6/23
+SuperRare,Wilmington,,1/6/23,30,Crypto,Series A,9,1/6/23
+Aware,Columbus,,1/6/23,,Security,Series C,88,1/6/23
+Carbon Health,SF Bay Area,200,1/6/23,,Healthcare,Series D,522,1/6/23
+Everlane,SF Bay Area,30,1/5/23,17,Retail,Unknown,176,1/6/23
+Cue,San Diego,388,1/5/23,,Healthcare,IPO,999,1/6/23
+Twitter,SF Bay Area,40,1/5/23,,Consumer,IPO,12900,1/6/23
+Attentive,New York City,,1/5/23,15,Marketing,Series E,863,1/6/23
+Astronomer,Cincinnati,76,1/4/23,20,Data,Series C,282,1/6/23
+Scale AI,SF Bay Area,,1/9/23,20,Data,Series E,602,1/9/23
+WalkMe,SF Bay Area,43,1/8/23,3,Other,IPO,307,1/9/23
+CareerArc,Los Angeles,,1/6/23,,HR,Private Equity,30,1/9/23
+CreateMe,SF Bay Area,,1/6/23,,Manufacturing,Unknown,,1/9/23
+Augury,New York City,20,1/4/23,5,Manufacturing,Series E,274,1/9/23
+Coinbase,SF Bay Area,950,1/10/23,20,Crypto,IPO,549,1/10/23
+ForeScout,SF Bay Area,100,1/10/23,10,Security,IPO,125,1/10/23
+Informatica,SF Bay Area,450,1/10/23,7,Data,IPO,,1/10/23
+Blend,SF Bay Area,340,1/10/23,28,Finance,IPO,665,1/10/23
+ConsenSys,New York City,100,1/10/23,11,Crypto,Series D,726,1/10/23
+Cart.com,Austin,,1/10/23,,Retail,Unknown,383,1/10/23
+Parler,Nashville,60,1/10/23,75,Consumer,Series B,36,1/10/23
+Citrix,Miami,,1/10/23,15,Infrastructure,Acquired,20,1/10/23
+Flexport,SF Bay Area,640,1/11/23,20,Logistics,Series E,2400,1/11/23
+Carta,SF Bay Area,,1/11/23,10,HR,Series G,1100,1/11/23
+Oyster,Charlotte,,1/11/23,,HR,Series C,224,1/11/23
+Verily,SF Bay Area,250,1/11/23,15,Healthcare,,3500,1/11/23
+Tipalti,SF Bay Area,123,1/11/23,11,Finance,Series F,565,1/11/23
+Beamery,London,,1/10/23,12,HR,Series D,223,1/11/23
+Rock Content,Miami,,1/12/23,15,Marketing,Series B,34,1/12/23
+Lattice,SF Bay Area,,1/12/23,15,HR,Series F,328,1/12/23
+Career Karma,SF Bay Area,22,1/12/23,,Education,Series B,51,1/12/23
+Greenlight,Atlanta,104,1/12/23,21,Finance,Series D,556,1/12/23
+Lending Club,SF Bay Area,225,1/12/23,14,Finance,IPO,392,1/12/23
+Definitive Healthcare,Boston,55,1/12/23,6,Healthcare,IPO,,1/12/23
+Life360,SF Bay Area,,1/12/23,14,Consumer,IPO,158,1/12/23
+SmartNews,Tokyo,120,1/12/23,40,Media,Series F,410,1/12/23
+Intrinsic,SF Bay Area,40,1/11/23,20,Other,Acquired,,1/12/23
+Limeade,Seattle,,1/11/23,15,HR,Series C,33,1/12/23
+Qualtrics,Salt Lake City,270,1/11/23,5,Other,IPO,400,1/12/23
+HashiCorp,SF Bay Area,69,1/11/23,,Security,IPO,349,1/12/23
+Embark,Boston,41,1/11/23,,Healthcare,Series B,94,1/12/23
+Jumio,SF Bay Area,100,1/11/23,6,Security,Private Equity,205,1/12/23
+Citizen,New York City,33,1/11/23,,Consumer,Series C,133,1/12/23
+WHOOP,Boston,,1/10/23,4,Fitness,Series F,404,1/12/23
+Esper,Seattle,,1/10/23,21,Other,Series A,10,1/12/23
+100 Thieves,Los Angeles,,1/10/23,,Retail,Series C,120,1/12/23
+Fate Therapeutics,San Diego,315,1/9/23,57,Healthcare,IPO,1200,1/12/23
+Lantern,Grand Rapids,,1/6/23,100,Retail,Seed,40,1/12/23
+Crypto.com,Singapore,,1/12/23,20,Crypto,Unknown,,1/13/23
+Vial,SF Bay Area,40,1/13/23,,Healthcare,Series B,101,1/14/23
+Arch Oncology,Brisbane,,1/13/23,100,Healthcare,Series C,155,1/14/23
+CoSchedule,Bismarck,,1/13/23,,Marketing,Unknown,2,1/14/23
+Carvana,Phoenix,,1/13/23,,Transportation,IPO,1600,1/14/23
+Jellyfish,Boston,,1/13/23,9,Product,Series C,114,1/14/23
+Akili Labs,Baltimore,46,1/12/23,30,Healthcare,Seed,,1/14/23
+Microsoft,Seattle,10000,1/18/23,5,Other,IPO,1,1/17/23
+Unity,SF Bay Area,284,1/17/23,3,Other,IPO,1300,1/17/23
+RingCentral,SF Bay Area,30,1/17/23,,Other,IPO,44,1/17/23
+Bonterra,Austin,140,1/13/23,10,Other,Unknown,,1/17/23
+GoCanvas,Washington DC,,1/13/23,,Other,Acquired,21,1/17/23
+Addepar,SF Bay Area,20,1/18/23,3,Finance,Series F,491,1/18/23
+Sophos,Oxford,450,1/18/23,10,Security,Acquired,125,1/18/23
+Pagaya,New York City,140,1/18/23,20,Finance,IPO,571,1/18/23
+Teladoc Health,New York City,300,1/18/23,6,Healthcare,IPO,172,1/18/23
+Jumpcloud,Boulder,100,1/18/23,12,Security,Series F,416,1/18/23
+8x8,SF Bay Area,155,1/18/23,7,Support,IPO,253,1/18/23
+Starry,Boston,100,1/18/23,24,Other,IPO,260,1/18/23
+nCino,Wilmington,100,1/18/23,7,Finance,IPO,1100,1/18/23
+80 Acres Farms,Cincinnati,,1/18/23,10,Food,Unknown,275,1/18/23
+RateGenius,Austin,,1/17/23,,Finance,Acquired,2,1/18/23
+Luxury Presence,Los Angeles,44,1/17/23,,Real Estate,Series B,31,1/18/23
+Snappy,New York City,100,1/15/23,30,Marketing,Series C,104,1/18/23
+Butterfly Network,Boston,,1/4/23,25,Healthcare,IPO,530,1/18/23
+WeWork,New York City,300,1/19/23,,Real Estate,IPO,22200,1/19/23
+Hubilo,SF Bay Area,115,1/19/23,35,Other,Series B,153,1/19/23
+Riot Games,Los Angeles,46,1/19/23,,Consumer,Acquired,21,1/19/23
+Mudafy,Mexico City,,1/19/23,70,Real Estate,Series A,13,1/19/23
+Fandom,SF Bay Area,,1/19/23,,Media,Series E,145,1/19/23
+Personalis,SF Bay Area,,1/19/23,30,Healthcare,IPO,225,1/19/23
+Magnite,Los Angeles,,1/19/23,6,Marketing,IPO,400,1/19/23
+Icertis,Seattle,,1/19/23,,Legal,Unknown,521,1/19/23
+Vroom,New York City,275,1/18/23,20,Transportation,IPO,1300,1/19/23
+Cypress.io,Atlanta,,1/18/23,,Product,Series B,54,1/19/23
+Inspirato,Denver,109,1/18/23,12,Travel,IPO,179,1/19/23
+American Robotics,Boston,50,1/17/23,65,Other,Acquired,92,1/19/23
+Mapbox,Washington DC,64,1/12/23,,Data,Unknown,334,1/19/23
+Editas Medicine,Boston,,1/9/23,20,Healthcare,IPO,656,1/19/23
+Century Therapeutics,Philadelphia,,1/9/23,,Healthcare,IPO,560,1/19/23
+Google,SF Bay Area,12000,1/20/23,6,Consumer,IPO,26,1/20/23
+Wayfair,Boston,1750,1/20/23,10,Retail,IPO,1700,1/20/23
+Vox Media,Washington DC,130,1/20/23,7,Media,Series F,307,1/20/23
+Cyteir Therapeutics,Boston,,1/20/23,70,Healthcare,Series C,156,1/20/23
+Citrine Informatics,SF Bay Area,22,1/20/23,27,Data,Series C,64,1/20/23
+Capital One,Washington DC,1100,1/19/23,,Finance,IPO,,1/20/23
+Saks.com,New York City,100,1/19/23,5,Retail,Unknown,965,1/20/23
+Prisma,SF Bay Area,,1/19/23,28,Data,Series B,56,1/20/23
+IAM Robotics,Pittsburgh,,1/19/23,,Hardware,Unknown,21,1/20/23
+CS Disco,Austin,62,1/19/23,9,Legal,IPO,233,1/20/23
+Mavenir,Dallas,,1/18/23,,Infrastructure,Acquired,854,1/20/23
+LiveVox,SF Bay Area,,1/17/23,16,Support,IPO,12,1/20/23
+Avalara,Seattle,,1/20/23,,Finance,Acquired,341,1/21/23
+Karat,Seattle,47,1/20/23,,HR,Unknown,169,1/21/23
+Edifecs,Seattle,30,1/20/23,,Healthcare,Unknown,1,1/21/23
+Zappos,Las Vegas,,1/20/23,,Retail,Acquired,62,1/21/23
+Hydrow,Boston,30,1/19/23,,Fitness,Series D,269,1/21/23
+Bally's Interactive,Providence,,1/18/23,15,,IPO,946,1/21/23
+Fishbrain,Stockholm,,1/17/23,,Consumer,Unknown,59,1/21/23
+Gemini,New York City,,1/23/23,10,Crypto,Unknown,423,1/23/23
+Yext,New York City,,1/23/23,8,Marketing,IPO,117,1/23/23
+Innovaccer,SF Bay Area,245,1/24/23,15,Healthcare,Series E,379,1/24/23
+PagerDuty,SF Bay Area,,1/24/23,7,Product,IPO,173,1/24/23
+Vacasa,Portland,1300,1/24/23,17,Travel,IPO,834,1/24/23
+Bolt,SF Bay Area,50,1/24/23,10,Finance,Series E,1300,1/24/23
+Namogoo,Tel Aviv,20,1/23/23,15,Marketing,Series C,69,1/24/23
+Uber Freight,SF Bay Area,150,1/23/23,3,Logistics,Subsidiary,2700,1/24/23
+Innovid,New York City,40,1/23/23,10,Marketing,IPO,295,1/24/23
+Ermetic,SF Bay Area,30,1/23/23,17,Security,Series B,97,1/24/23
+Morning Consult,Washington DC,,1/20/23,,Data,Series B,91,1/24/23
+TikTok,Los Angeles,,1/20/23,,Consumer,Acquired,,1/24/23
+IBM,New York City,3900,1/25/23,2,Hardware,IPO,,1/25/23
+SirionLabs,Seattle,130,1/25/23,15,Legal,Series D,171,1/25/23
+Guardant Health,SF Bay Area,130,1/25/23,7,Healthcare,IPO,550,1/25/23
+Clear Capital,Reno,250,1/25/23,25,Real Estate,Unknown,,1/25/23
+Corvus Insurance,Boston,,1/24/23,14,Finance,Series C,160,1/25/23
+Icon,Austin,,1/24/23,,Construction,Series B,451,1/25/23
+Lucid Diagnostics,New York City,,1/18/23,20,Healthcare,IPO,,1/25/23
+Confluent,SF Bay Area,221,1/26/23,8,Data,IPO,455,1/26/23
+Noom,New York City,,1/25/23,,Fitness,Series F,657,1/26/23
+Shutterfly,SF Bay Area,360,1/25/23,,Retail,Acquired,50,1/26/23
+Plus One Robotics ,San Antonio,,1/26/23,10,Other,Series B,43,1/27/23
+Quora,SF Bay Area,,1/26/23,,Consumer,Series D,226,1/27/23
+Oracle,SF Bay Area,,1/17/23,,Other,IPO,,1/27/23
+CoinTracker,SF Bay Area,19,1/28/23,,Crypto,Series A,101,1/28/23
+Synopsys,SF Bay Area,100,1/27/23,,Other,IPO,,1/28/23
+Decent,SF Bay Area,,1/27/23,,Healthcare,Series A,18,1/28/23
+OFFOR Health,Columbus,16,1/24/23,,Healthcare,Series A,14,1/28/23
+Nate,SF Bay Area,,1/27/23,,Retail,Series A,47,1/29/23
+Earth Rides ,Nashville,,1/19/23,100,Transportation,Unknown,2,1/29/23
+Impossible Foods,SF Bay Area,140,1/30/23,20,Food,Series H,1900,1/30/23
+SoFi,SF Bay Area,,1/30/23,,Finance,IPO,3000,1/30/23
+Groupon,Chicago,500,1/30/23,,Retail,IPO,1400,1/30/23
+Intel,SF Bay Area,343,1/30/23,,Hardware,IPO,12,1/30/23
+NetApp,SF Bay Area,960,1/31/23,8,Data,IPO,,1/31/23
+HubSpot,Boston,500,1/31/23,7,Marketing,Series E,100,1/31/23
+Workday,SF Bay Area,525,1/31/23,3,HR,IPO,230,1/31/23
+Upstart,SF Bay Area,365,1/31/23,20,Finance,IPO,144,1/31/23
+PayPal,SF Bay Area,2000,1/31/23,7,Finance,IPO,216,1/31/23
+BM Technologies,Philadelphia,,1/30/23,25,Finance,IPO,,2/1/23
+Oyster,Charlotte,,1/30/23,,HR,Series C,224,2/1/23
+LeafLink,New York City,80,12/15/22,31,Other,Series C,379,2/1/23
+Prime Trust,Las Vegas,,1/30/23,33,Crypto,Series B,176,2/1/23
+Wish,SF Bay Area,150,1/31/23,17,Retail,IPO,1600,2/1/23
+CareRev,Los Angeles,,1/25/23,,Retail,Series A,51,2/1/23
+Ruggable,Los Angeles,100,1/27/23,,Retail,Seed,,2/1/23
+Splunk,SF Bay Area,325,2/1/23,4,Data,Post-IPO,2400,2/1/23
+Tilting Point,New York City,60,1/31/23,14,Consumer,Unknown,235,2/1/23
+Rivian,Detroit,,2/1/23,6,Transportation,Post-IPO,10700,2/1/23
+Lam Research,SF Bay Area,1300,1/25/23,7,Hardware,Post-IPO,,2/1/23
+DraftKings,Boston,140,2/1/23,4,Consumer,Post-IPO,719,2/1/23
+DriveWealth,Jersey City,,1/26/23,,Finance,Series D,550,2/1/23
+Wheel,Austin,56,2/1/23,28,Healthcare,Series C,215,2/1/23
+Exterro,Portland,24,2/1/23,3,Legal,Private Equity,100,2/1/23
+Pinterest,SF Bay Area,150,2/1/23,,Consumer,Post-IPO,1500,2/1/23
+Match Group,New York City,,2/1/23,8,Consumer,Post-IPO,,2/1/23
+Chainalysis,New York City,44,2/1/23,5,Crypto,Series F,536,2/1/23
+Okta,SF Bay Area,300,2/2/23,5,Other,Post-IPO,1200,2/2/23
+Miro,SF Bay Area,119,2/2/23,7,Other,Series C,476,2/2/23
+Cyren,Washington DC,121,2/1/23,,Security,Post-IPO,161,2/2/23
+Quantum SI,New Haven,,1/30/23,12,Healthcare,Post-IPO,425,2/2/23
+Omnipresent,London,,2/1/23,,HR,Series B,137,2/2/23
+Bittrex,Seattle,80,2/2/23,,Crypto,Unknown,,2/2/23
+Articulate,New York City,38,2/2/23,,,Series A,1500,2/2/23
+Highspot,Seattle,100,2/2/23,10,Sales,Series F,644,2/2/23
+Desktop Metal,Boston,,2/2/23,,Other,Post-IPO,811,2/2/23
+Mindstrong,SF Bay Area,127,2/2/23,,Healthcare,Series C,160,2/2/23
+Bustle Digital Group,New York City,,2/1/23,8,Media,Series E,80,2/2/23
+TheSkimm,New York City,17,2/1/23,10,Media,Series C,28,2/2/23
+Getaround,SF Bay Area,,2/2/23,10,Transportation,Post-IPO,948,2/2/23
+Snowplow,London,40,2/2/23,,Data,Series B,55,2/3/23
+Autodesk,SF Bay Area,250,2/2/23,2,Other,Post-IPO,,2/3/23
+Protocol Labs,SF Bay Area,89,2/3/23,20,Crypto,Unknown,10,2/3/23
+National Instruments ,Austin,,1/31/23,4,Hardware,Post-IPO,,2/4/23
+Getir,New York City,100,2/2/23,,Food,Series E,1800,2/4/23
+Dell,Austin,6650,2/6/23,5,Hardware,Post-IPO,,
+Talkdesk,SF Bay Area,,2/2/23,,Support,Series D,497,
+Kyruus,Boston,70,2/5/23,,Healthcare,Unknown,183,
+BitTorrent,SF Bay Area,92,1/20/23,,Infrastructure,Acquired,,
+Drift,Boston,59,2/6/23,,Marketing,Acquired,107,
+Workato,SF Bay Area,90,2/1/23,10,Other,Series E,415,
+Clari,SF Bay Area,20,2/6/23,,Sales,Series F,496,
+SecureWorks,Atlanta,212,2/7/23,9,Security,Post-IPO,83,
+Zoom,SF Bay Area,1300,2/7/23,15,Other,Post-IPO,276,
+eBay,SF Bay Area,500,2/7/23,4,Retail,Post-IPO,1200,
+Gusto,SF Bay Area,126,2/8/23,5,HR,Series E,746,
+Salesloft,Atlanta,100,2/7/23,10,Sales,Acquired,245,
+Sana Benefits,Austin,,2/7/23,19,HR,Series B,106,
+VinFast US,Los Angeles,80,2/6/23,,Transportation,Subsidiary,,
+Gong,SF Bay Area,80,2/8/23,7,Sales,Series E,583,
+Affirm,SF Bay Area,500,2/8/23,19,Finance,Post-IPO,1500,
+GoDaddy,Phoenix,,2/8/23,8,Marketing,Post-IPO,800,
+Equitybee,SF Bay Area,24,2/8/23,25,Finance,Series B,85,
+GitLab,SF Bay Area,130,2/9/23,7,Product,Post-IPO,413,
+GitHub,SF Bay Area,,2/9/23,10,Product,Acquired,350,
+Yahoo,SF Bay Area,1600,2/9/23,20,Consumer,Acquired,6,
