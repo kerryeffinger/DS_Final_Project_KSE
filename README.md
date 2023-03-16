@@ -5,3 +5,7 @@
 #### Update 2/13/23:
 
 #### Data is collected periodocially (about once a week) from the website, layoffs.fyi. A database and corresponding table have been created using MySQL workbench, which will be updated weekly also. The SQL script to set up the database and import the data is attached in this repository in the file called database_table_setup. The most current csv file of the layoffs.fyi data is needed in order to run it. 
+
+#### There are several csv files with the date noted on them. These are uploads of the layoffs data collected as of that date. New csv files are uploaded as often as possible, preferably once a week. 
+
+#### The file, DS_capstone_poster, is a PDF of the poster that will be printed for the Celebration of student research in April. The poster has some blank spaces, as the rest of the information will be added once those parts of the project are completed. 
