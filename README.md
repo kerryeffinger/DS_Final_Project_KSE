@@ -14,4 +14,5 @@
 
 ### The Exploratory Data Analysis was completed. The python code is in the "Exploratory_data_analysis.ipynb" file and the Microsoft Word document detailing the conclusions with respective tables and graphs is the file titled "Exploratory_analysis_KSE.docx". 
 
-###There is also a Tableau workbook with several visualizations titled "Capstone_KSE.twb". The dashboard summarizing the project is on the tab "Dashboard 1." 
+
+### There is also a Tableau workbook with several visualizations titled "Capstone_KSE.twb". The dashboard summarizing the project is on the tab "Dashboard 1." 
