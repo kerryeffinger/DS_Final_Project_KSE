@@ -10,9 +10,9 @@
 
 #### The file, DS_capstone_poster, is a PDF of the poster that will be printed for the Celebration of student research in April. The poster has some blank spaces, as the rest of the information will be added once those parts of the project are completed. 
 
-### Update 3/30/23:
+#### Update 3/30/23:
 
-### The Exploratory Data Analysis was completed. The python code is in the "Exploratory_data_analysis.ipynb" file and the Microsoft Word document detailing the conclusions with respective tables and graphs is the file titled "Exploratory_analysis_KSE.docx". 
+#### The Exploratory Data Analysis was completed. The python code is in the "Exploratory_data_analysis.ipynb" file and the Microsoft Word document detailing the conclusions with respective tables and graphs is the file titled "Exploratory_analysis_KSE.docx". 
 
 
-### There is also a Tableau workbook with several visualizations titled "Capstone_KSE.twb". The dashboard summarizing the project is on the tab "Dashboard 1." 
+#### There is also a Tableau workbook with several visualizations titled "Capstone_KSE.twb". The dashboard summarizing the project is on the tab "Dashboard 1." 
